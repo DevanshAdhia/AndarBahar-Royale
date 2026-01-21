@@ -18,4 +18,5 @@ If the winning side matches your bet, you receive double your bet amount. If not
 Adjust your bet amount by clicking Change Bet, cycling through ₹50, ₹100, and ₹200.
 Continue playing until your balance runs out or as long as you like.
 
-<img width="2916" height="1830" alt="image" src="https://github.com/user-attachments/assets/14e8fb8c-978c-432d-99b2-1832cb1ea31e" />
+<img width="2918" height="1878" alt="image" src="https://github.com/user-attachments/assets/fecc84ff-5eb4-49de-87ed-8996c0615da1" />
+
